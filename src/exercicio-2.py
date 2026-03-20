@@ -33,6 +33,7 @@ resultadocard=(cardresultado2,cardresultado3)
 print("A cardinalidade de de C com D é :",resultadocard)
 
 
+
 print(6 in C)
 # If e else pode ser substituido por print (x in y) pertence, e print(x not in y), nao pertece.
 
